@@ -48,7 +48,6 @@
   <ItemGroup>
     <None Include="pokemon.csv" />
     <None Include="packages.config" />
-    <None Include="README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
